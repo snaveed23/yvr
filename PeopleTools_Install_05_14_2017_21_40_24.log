@@ -1,0 +1,136 @@
+__________________________________________________________________________
+
+Sun May 14 21:40:24 EDT 2017
+
+Free Memory: 10703 kB
+Total Memory: 64512 kB
+
+1 Command Line Args:
+0:  -DCOMP_NAME=DESKTOP-C7HAVMK
+
+java.class.path:
+    C:\Users\Zeeshan Syed\AppData\Local\Temp\I1494812289\InstallerData\IAClasses.zip
+    C:\Users\Zeeshan Syed\AppData\Local\Temp\I1494812289\InstallerData\Execute.zip
+    C:\Users\Zeeshan Syed\AppData\Local\Temp\I1494812289\Windows\InstallerData\Execute.zip
+    C:\Users\Zeeshan Syed\AppData\Local\Temp\I1494812289\InstallerData\Resource1.zip
+    C:\Users\Zeeshan Syed\AppData\Local\Temp\I1494812289\Windows\InstallerData\Resource1.zip
+    C:\Users\Zeeshan Syed\AppData\Local\Temp\I1494812289\InstallerData
+    C:\Users\Zeeshan Syed\AppData\Local\Temp\I1494812289\Windows\InstallerData
+
+ZGUtil.CLASS_PATH:
+    C:\Users\Zeeshan Syed\AppData\Local\Temp\I1494812289\InstallerData\IAClasses.zip
+    C:\Users\Zeeshan Syed\AppData\Local\Temp\I1494812289\InstallerData\Execute.zip
+    C:\Users\Zeeshan Syed\AppData\Local\Temp\I1494812289\InstallerData
+
+sun.boot.class.path:
+    C:\Users\Zeeshan Syed\AppData\Local\Temp\I1494812289\Windows\resource\jre\lib\resources.jar
+    C:\Users\Zeeshan Syed\AppData\Local\Temp\I1494812289\Windows\resource\jre\lib\rt.jar
+    C:\Users\Zeeshan Syed\AppData\Local\Temp\I1494812289\Windows\resource\jre\lib\sunrsasign.jar
+    C:\Users\Zeeshan Syed\AppData\Local\Temp\I1494812289\Windows\resource\jre\lib\jsse.jar
+    C:\Users\Zeeshan Syed\AppData\Local\Temp\I1494812289\Windows\resource\jre\lib\jce.jar
+    C:\Users\Zeeshan Syed\AppData\Local\Temp\I1494812289\Windows\resource\jre\lib\charsets.jar
+    C:\Users\Zeeshan Syed\AppData\Local\Temp\I1494812289\Windows\resource\jre\lib\jfr.jar
+    C:\Users\Zeeshan Syed\AppData\Local\Temp\I1494812289\Windows\resource\jre\classes
+
+java.ext.dirs:
+    C:\Users\Zeeshan Syed\AppData\Local\Temp\I1494812289\Windows\resource\jre\lib\ext
+    C:\WINDOWS\Sun\Java\lib\ext
+
+java.version                  == 1.7.0_51 (Java 1)
+java.vm.name                  == Java HotSpot(TM) 64-Bit Server VM
+java.vm.vendor                == Oracle Corporation
+java.vm.version               == 24.51-b03
+java.vm.specification.name    == Java Virtual Machine Specification
+java.vm.specification.vendor  == Oracle Corporation
+java.vm.specification.version == 1.7
+java.specification.name       == Java Platform API Specification
+java.specification.vendor     == Oracle Corporation
+java.specification.version    == 1.7
+java.vendor                   == Oracle Corporation
+java.vendor.url               == http://java.oracle.com/
+java.class.version            == 51.0
+java.library.path             == C:\Users\Zeeshan Syed\AppData\Local\Temp\I1494812289\Windows\resource\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\IntelSGXPSW\bin\x64\Release\;C:\Program Files\Intel\IntelSGXPSW\bin\win32\Release\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Common Files\Autodesk Shared\;C:\Users\Zeeshan Syed\AppData\Local\Microsoft\WindowsApps;.
+java.compiler                 == null
+java.home                     == C:\Users\Zeeshan Syed\AppData\Local\Temp\I1494812289\Windows\resource\jre
+java.io.tmpdir                == C:\Users\ZEESHA~1\AppData\Local\Temp\
+os.name                       == Windows 8
+os.arch                       == amd64
+os.version                    == 6.2
+path.separator                == ;
+file.separator                == \
+file.encoding                 == Cp1252
+user.name                     == Zeeshan Syed
+user.home                     == C:\Users\Zeeshan Syed
+user.dir                      == C:\Users\Zeeshan Syed\AppData\Local\Temp\I1494812289\Windows
+user.language                 == en
+user.region                   == null
+__________________________________________________________________________
+
+Installed Feature(s)  of PeopleTools
+
+Install Begin: MAY 14, 2017 9:38:20 PM EDT
+Install End: MAY 14, 2017 9:39:41 PM EDT
+
+Installed by InstallAnywhere 15.0 Premier Build 4538
+
+INSTALLATION WAS CANCELLED BY USER DURING PRE-INSTALLATION
+
+User Interactions
+-----------------
+
+
+#Choose Install Folder
+#---------------------
+USER_INSTALL_DIR=C:\\PT8.55
+
+Summary
+-------
+
+Installation:  Cancelled during pre-install.
+
+17 Successes
+0 Warnings
+0 NonFatalErrors
+0 FatalErrors
+
+Action Notes:
+
+None
+
+Install Log Detail:
+
+Check Disk Space:         
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Required Disk Space: 0; Free Disk Space: 180,744,765,440
+
+Custom Action:            com.ps.pt.install.common.action.plugin.PSGetProductInfo
+                          Status: SUCCESSFUL
+
+Custom Action:            com.ps.pt.install.vcd.action.PSPlatfromSet
+                          Status: SUCCESSFUL
+
+Custom Action:            com.ps.pt.install.vcd.action.PSEmployeeCheck
+                          Status: SUCCESSFUL
+
+Custom Action:            com.ps.pt.install.vcd.action.PSDefaultDir
+                          Status: SUCCESSFUL
+
+Custom Action:            com.ps.pt.install.vcd.action.PSEmployeeMachineCheck
+                          Status: SUCCESSFUL
+
+Custom Action:            com.ps.pt.install.vcd.action.PSFeatureLicenseCheck
+                          Status: SUCCESSFUL
+
+Custom Action:            com.ps.pt.install.vcd.action.PSSetSQRCmnFilesDir
+                          Status: SUCCESSFUL
+
+
+
+
+
+
+
+
+
+
+INSTALLATION WAS CANCELLED BY USER DURING PRE-INSTALLATION
